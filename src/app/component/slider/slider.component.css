@@ -1,0 +1,10 @@
+.example-form mat-slide-toggle {
+    margin: 8px 0;
+    display: block;
+  }
+  .example-form {
+    margin-bottom: 35px;
+  }
+  mat-slider {
+    width: 600px;
+  }

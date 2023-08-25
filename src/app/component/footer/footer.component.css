@@ -1,0 +1,29 @@
+.footer{
+    padding: 15px 0;
+    background-color: rgb(191, 191, 191);
+}
+.footer-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+ .footer-menu{
+    display: flex;
+}
+ .footer-menu li{
+    list-style-type: none;
+}
+.footer-menu li a{
+  padding: 5px 15px;
+    text-decoration: none;
+    color: #000000;
+}
+.footer-menu li a:hover{
+    opacity: 0.6;
+
+  }

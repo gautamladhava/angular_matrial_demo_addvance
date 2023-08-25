@@ -1,0 +1,12 @@
+.mat-mdc-chip-set-stacked .mat-mdc-chip{
+    max-width: 300px;
+}
+.mdc-evolution-chip-set__chips{
+    flex-direction: column;
+}
+.mdc-evolution-chip-set .mdc-evolution-chip-set__chips{
+    flex-direction: column;
+}
+.mat-mdc-chip-set .mdc-evolution-chip-set__chips{
+    flex-direction: column !important;
+}

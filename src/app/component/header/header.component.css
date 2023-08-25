@@ -1,0 +1,47 @@
+.header{
+    padding: 20px 0;
+    background-color: rgb(211, 211, 211);
+}
+.header-part .top-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header-part .header-menu{
+    display: flex;
+}
+.header-part .header-menu li{
+    list-style-type: none;
+}
+.header-part .header-menu li a{
+  padding: 5px 15px;
+    text-decoration: none;
+    color: #000000;
+}
+.header-part .header-menu li a:hover{
+    opacity: 0.6;
+
+  }
+  .mat-toolbar{
+    background-color: transparent;
+  }
+  .mat-icon{
+    height: 30px;
+    width: 30px;
+
+  }
+  .mat-mdc-icon-button .mat-mdc-button-touch-target{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .mat-toolbar .mat-mdc-button-base.mat-unthemed{
+    display: flex;
+   
+  }
+
+  .example-spacer {
+    /* flex: 1 1 auto; */
+    width: 100%;
+  }
